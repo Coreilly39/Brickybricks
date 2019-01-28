@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0; 
+}
+
+canvas {
+    background: url(images/newyork.jpg); 
+    display: block; 
+    margin: 0; 
+    width: 800px; 
+    height: 600px;
+    border: 5px solid black;  
+}
